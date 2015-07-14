@@ -1,0 +1,54 @@
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.pdb
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.manifest
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.vsto
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.csprojResolveAssemblyReference.cache
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.GenerateResource.Cache
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.dll
+c:\users\jay sanjay bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\obj\Debug\OutlookAddIn1.pdb
+C:\Users\Jay Sanjay Bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Database1.sdf
+C:\Users\Jay Sanjay Bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.config
+C:\Users\Jay Sanjay Bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookContacts.mdf
+C:\Users\Jay Sanjay Bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OutlookContacts_log.ldf
+C:\Users\Jay Sanjay Bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Aspose.OCR.dll
+C:\Users\Jay Sanjay Bajaj\documents\visual studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\Aspose.OCR.xml
+C:\Users\Jay Sanjay Bajaj\Documents\Visual Studio 2010\Projects\OutlookAddIn1\OutlookAddIn1\bin\Debug\OnenoteOCR.dll
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookContacts.mdf
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookContacts_log.ldf
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.config
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookAddIn1.pdb
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.manifest
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\OutlookAddIn1.vsto
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\Aspose.OCR.xml
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\obj\Debug\OutlookAddIn1.csprojResolveAssemblyReference.cache
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.GenerateResource.Cache
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\obj\Debug\OutlookAddIn1.dll
+C:\Users\Prashanth\Documents\Visual Studio 2013\Projects\Capstone\OutlookAddIn1\obj\Debug\OutlookAddIn1.pdb
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookContacts.mdf
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookContacts_log.ldf
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.config
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookAddIn1.pdb
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookAddIn1.dll.manifest
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\OutlookAddIn1.vsto
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\Aspose.OCR.xml
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\obj\Debug\OutlookAddIn1.csprojResolveAssemblyReference.cache
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\obj\Debug\OutlookAddIn1.csproj.GenerateResource.Cache
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\obj\Debug\OutlookAddIn1.dll
+C:\Users\Prashanth\Desktop\CAPSTONE JPMORGAN\OutlookAddIn1\obj\Debug\OutlookAddIn1.pdb
